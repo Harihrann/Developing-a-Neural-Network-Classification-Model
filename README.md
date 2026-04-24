@@ -190,7 +190,8 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 ### OUTPUT
 <img width="666" height="246" alt="image" src="https://github.com/user-attachments/assets/aca128cb-5aee-448d-81f0-5b39496550f0" />
 
-<img width="523" height="345" alt="image" src="https://github.com/user-attachments/assets/383333a6-4ce7-4949-a8cb-89172e5e5e00" />
+<img width="270" height="179" alt="image" src="https://github.com/user-attachments/assets/b66d5edd-d5be-466c-9529-f3b729ed4cdc" />
+
 
 
 
